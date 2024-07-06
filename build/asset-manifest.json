@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d11c534f.css",
+    "main.js": "/static/js/main.161d8242.js",
+    "static/media/bg-sun.svg": "/static/media/bg-sun.d3481591d40c52e51b3a5f98454ce8ef.svg",
+    "static/media/aviator-logo.svg": "/static/media/aviator-logo.cafbd29233306bf7.1613b7a58d0038417f452598d67f14dc.svg",
+    "static/media/plane-1.svg": "/static/media/plane-1.9e0cd587b4b486067874d045a0988d78.svg",
+    "static/media/plane-3.svg": "/static/media/plane-3.30c30c5a0b9cdf27844f9babec587d37.svg",
+    "static/media/plane-0.svg": "/static/media/plane-0.0961e10bc91c5d435f4d572568af5861.svg",
+    "static/media/plane-2.svg": "/static/media/plane-2.cdcf6be869f92e3e4882d3b7c911fa7a.svg",
+    "static/media/prop.svg": "/static/media/prop.8088547fcf30f8351eb0ef35be206418.svg",
+    "static/media/close.svg": "/static/media/close.f5406f1da6e88af185ff21c84258e4fe.svg",
+    "static/media/star.svg": "/static/media/star.f69d9d152e894545748df43e29937711.svg",
+    "index.html": "/index.html",
+    "static/media/burger.svg": "/static/media/burger.2dd58692fde31c48.74c98e26568adb96be49eca7fd2abc43.svg",
+    "main.d11c534f.css.map": "/static/css/main.d11c534f.css.map",
+    "main.161d8242.js.map": "/static/js/main.161d8242.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d11c534f.css",
+    "static/js/main.161d8242.js"
+  ]
+}

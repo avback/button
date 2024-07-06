@@ -1,0 +1,30 @@
+{
+  "name": "aviator-backend",
+  "version": "1.0.1",
+  "description": "aviator backend",
+  "main": "s.js",
+  "scripts": {
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "null"
+  },
+  "keywords": [
+    "aviator",
+    "axios",
+    "server"
+  ],
+  "author": "Mussa&Parfait",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "express-session": "^1.18.0",
+    "axios": "^1.6.8",
+    "express-cookie": "^4.17.1",
+    "helmet": "^7.1.0",
+    "jsonwebtoken": "^9.0.2",
+    "dotenv": "^16.4.5"
+  }
+}
