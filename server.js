@@ -9,7 +9,7 @@ const axios = require("axios");
 const envs = require("dotenv");
 envs.config();
 
-let uri = "https://av-98n5.onrender.com";
+let uri = "https://startling-tartufo-29d697.netlify.app.com";
 
 app
   .use(helmet({ contentSecurityPolicy: false }))
